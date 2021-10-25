@@ -3,7 +3,7 @@ This website was created to act as a companion website where song requests can b
 
 # Dependencies
 # Python
-flask
+flask\n
 flask_login
 flask_sqlaclhemy
 flask_bootstrap
